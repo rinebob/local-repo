@@ -1,0 +1,11 @@
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\bin\Debug\netcoreapp2.0\student-list.deps.json
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\bin\Debug\netcoreapp2.0\student-list.runtimeconfig.json
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\bin\Debug\netcoreapp2.0\student-list.runtimeconfig.dev.json
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\bin\Debug\netcoreapp2.0\student-list.dll
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\bin\Debug\netcoreapp2.0\student-list.pdb
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\obj\Debug\netcoreapp2.0\student-list.csprojAssemblyReference.cache
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\obj\Debug\netcoreapp2.0\student-list.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\obj\Debug\netcoreapp2.0\student-list.AssemblyInfoInputs.cache
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\obj\Debug\netcoreapp2.0\student-list.AssemblyInfo.cs
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\obj\Debug\netcoreapp2.0\student-list.dll
+C:\Users\Bob\Google Drive\Rinebob\Code\local-repo\student-list\obj\Debug\netcoreapp2.0\student-list.pdb
